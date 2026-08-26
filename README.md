@@ -76,10 +76,8 @@ linux-system-admin-suite/
 │   ├── user_management.sh
 │   ├── file_vault.sh
 │   └── system_monitor.sh
-├── docs/                 # Additional documentation (optional)
 └── README.md
 ```
-*(Adjust this to match your actual file layout.)*
  
 ## Skills Demonstrated
  
