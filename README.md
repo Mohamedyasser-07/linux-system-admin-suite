@@ -43,7 +43,7 @@ Select an option [1-6]:
 ## Installation
  
 ```bash
-git clone https://github.com/<your-username>/linux-system-admin-suite.git
+git clone https://github.com/Mohamedyasser-07/linux-system-admin-suite.git
 cd linux-system-admin-suite
 chmod +x main.sh
 ```
